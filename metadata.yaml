@@ -1,0 +1,29 @@
+_repo: Northern-Trails-Book-I._10389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Wayeeses the strong one -- The old wolf's challenge -- Where the
+  trail begins -- Noel and Mooka -- The way of the wolf -- The white wolf's hunting
+  -- Trails that cross in the snow.
+title: Northern Trails, Book I.
+url: http://www.gutenberg.org/ebooks/10389
